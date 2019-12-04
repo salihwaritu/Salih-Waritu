@@ -1,3 +1,3 @@
-## You Made it this far!
+# You Made it this far!
 
-### Hang tight - Content soon come :)
+## Hang tight - Content soon come :)
