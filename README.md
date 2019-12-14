@@ -4,7 +4,7 @@
 ## Techie | Creative | Investor
 
 
-### In the meantime, checkout these great Podcasts: 
+### Favorite Podcasts: 
 
 The first ever podcast I listened to was [Serial](https://serialpodcast.org/season-one), a captivating investigative story about a young Muslim immigrant who is accused of killing his girlfriend in high school. The show's host, Sarah Koenig is a gifted storyteller and my first introduction to Podcasts.
 
