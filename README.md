@@ -2,13 +2,12 @@
 
 ### Techie | Creative | Investor
 
-### Media
-[Website](https://www.trendei.com/index.php) | [LinkedIn](https://www.linkedin.com/in/salihw/) | [Instagram](https://www.instagram.com/sdubew/)
-
 ### About
 I'm a self-starter with a passion for solving problems. Always looking for ways to address the world's most pressing issues through collaboration and innovation. Specializing in IT Security and Compliance, Business/Data Analysis, Software Implementation, Project Management and New Business Development.
 
 Expertise: Security & Compliance, GxP, SOX, Identity & Access Governance (IAG), Project Management, Change Management, Business Analysis, Requirements Management, Digital Marketing, Mobile Technology
+
+[Website](https://www.trendei.com/index.php) | [LinkedIn](https://www.linkedin.com/in/salihw/) | [Instagram](https://www.instagram.com/sdubew/)
 
 UO Alumni association [Article](http://www.uoalumni.com/s/1540/uoaa/blank_archive.aspx?sid=1540&gid=3&pgid=1441) about my first failed startup.
 
