@@ -1,10 +1,9 @@
 
 
 # Salih Waritu 
-## Techie | Creative | Investor
+### Techie | Creative | Investor
 
-## A little bit about me!
-A self-starter with a passion for solving problems. Always looking for ways to address the world's most pressing issues through collaboration and innovation. Specializing in IT Security and Compliance, Business/Data Analysis, Software Implementation, Project Management and New Business Development.
+I'm a self-starter with a passion for solving problems. Always looking for ways to address the world's most pressing issues through collaboration and innovation. Specializing in IT Security and Compliance, Business/Data Analysis, Software Implementation, Project Management and New Business Development.
 
 Expertise: Security & Compliance, GxP, SOX, Identity & Access Governance (IAG), Project Management, Change Management, Business Analysis, Requirements Management, Digital Marketing, Mobile Technology
 
